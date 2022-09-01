@@ -1,0 +1,29 @@
+body{
+    background-color: #1E2D3B;
+}
+
+header{
+    background-color: black;
+    padding: 1rem;
+}
+
+header div img{
+    height: 3rem;
+}
+
+.ms_card{
+    color: white;
+    background-color: #2E3A46;
+    border-radius: 10px;
+    text-align: center;
+    margin: .5rem .7rem;
+    padding: .8rem;
+}
+
+.ms_card h5{
+    margin: 1rem 0;
+}
+
+.ms_card div{
+    color: darkgray;
+}
